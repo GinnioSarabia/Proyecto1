@@ -1,11 +1,18 @@
-body
-{
+body {
     text-align: center;
     font-family: helvetica;
     color: darkgreen;
 }
 
-h1
-{
+h1 {
     color: blue;
+    font: size 90;
+    ;
+}
+
+#container {
+    padding: 1em;
+    width: 70%;
+    border: 1px solid steelblue;
+    margin: 0 auto;
 }
