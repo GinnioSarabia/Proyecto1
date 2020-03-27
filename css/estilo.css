@@ -1,0 +1,19 @@
+body {
+    text-align: justify;
+    display: grid;
+    font-family: helvetica;
+    color: blue;
+}
+
+h1 {
+    color: red;
+    font: size 100;
+    ;
+}
+
+#container {
+    padding: 1em;
+    width: 70%;
+    border: 1px solid steelblue;
+    margin: 0 auto;
+}
